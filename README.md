@@ -1,1 +1,0 @@
-# binary_search_tree_in_ruby
